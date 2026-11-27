@@ -56,12 +56,7 @@ Controller → Service → Repository → Database
 * Spring Data JPA
 * MySQL
 * Maven
-
-### AI / NLP (Planned)
-
-* Pre-trained NLP models (free/open-source)
-* Rule-based + ML-based analysis approach
-
+  
 ### Tools
 
 * IntelliJ IDEA
