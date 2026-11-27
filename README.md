@@ -101,11 +101,7 @@ sambhasha-ai/
 
 ## 🚀 Future Enhancements
 
-* Voice input and speech analysis
-* Advanced AI feedback using transformer-based models
-* Frontend web interface (React)
-* User authentication and profile-based progress tracking
-* Analytics dashboard for skill improvement
+Advanced deep-learning feedback using fine-tuned transformer-based models for deeper semantic, emotional, and tonal nuance analysis
 
 ---
 
